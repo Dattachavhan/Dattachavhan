@@ -1,15 +1,14 @@
 👋 Hi, I’m Dattatraya Chavhan
 
 🚀 Senior Frontend Developer | Angular • React • UI Architecture
-💼 9+ years of experience building scalable, high-performance web 
+
+💼 9+ years of experience building scalable, high-performance web apps
 
 ---
 
 👀 About Me
 
 I’m a passionate Frontend Engineer with over 9 years of professional experience in Angular and React, focused on creating user-centric, responsive, and scalable web applications.
-
----
 
 I specialize in:
 
@@ -26,9 +25,13 @@ I enjoy working at the intersection of design and development, ensuring great UX
 🛠️ What I Do
 
 ✔️ Full-cycle frontend web development
+
 ✔️ Responsive & mobile-first design
+
 ✔️ Scalable and reusable component-based architecture
+
 ✔️ Performance-optimized, user-focused applications
+
 ✔️ Collaborating closely with designers & backend teams
 
 ---
@@ -75,10 +78,10 @@ REST APIs, Agile / Scrum
 
 💼 LinkedIn: https://www.linkedin.com/in/dattatraya-chavhan-b106a2124/
 
+✍️ Medium: https://medium.com/@dattachavhan311
+
 🧑‍💻 GitHub: You’re already here 😄
 
-https://www.linkedin.com/in/dattatraya-chavhan-b106a2124/
-
-https://www.linkedin.com/in/dattatraya-chavhan-b106a2124/
+---
 
 ⭐️ Always learning, always building — crafting web experiences that users love.
