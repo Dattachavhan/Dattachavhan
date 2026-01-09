@@ -1,4 +1,4 @@
-👋 Hi, I’m Datta
+👋 Hi, I’m Dattatraya Chavhan
 
 🚀 Senior Frontend Developer | Angular • React • UI Architecture
 💼 9+ years of experience building scalable, high-performance web 
