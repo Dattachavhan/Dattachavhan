@@ -7,15 +7,15 @@
 
 ## 👀 About Me
 
-I’m a passionate Frontend Engineer with over 9 years of professional experience in Angular and React, focused on creating user-centric, responsive, and scalable web applications.
+I’m a passionate Frontend Engineer with over 9+ years of professional experience in Angular and React, focused on creating user-centric, responsive, and scalable web applications.
 
 **I specialize in:**
 
-Turning Figma / design systems into clean, pixel-perfect UI
+Turning Figma / design systems into clean, pixel-perfect UI.
 
-Building robust component architectures
+Building robust component architectures.
 
-Delivering end-to-end frontend solutions for modern web platforms
+Delivering end-to-end frontend solutions for modern web platforms.
 
 I enjoy working at the intersection of design and development, ensuring great UX backed by maintainable, high-quality code.
 
@@ -35,19 +35,19 @@ I enjoy working at the intersection of design and development, ensuring great UX
 
 ## 💻 Tech Stack
 
-**Frontend:**
+***Frontend:***
 
 Angular (2+), React, JavaScript (ES6+), TypeScript, Google Analyatics
 
 HTML5, CSS3, SCSS, Tailwind, Material UI, Bootstrap
 
-**UI / UX:**
+***UI / UX:***
 
 Figma → Production-ready UI
 
 Design systems & reusable components
 
-**Tools & Workflow:**
+***Tools & Workflow:***
 
 Git, GitHub, CI/CD
 
