@@ -44,15 +44,11 @@ Angular (2+), React, JavaScript (ES6+), TypeScript, Google Analyatics
 
 HTML5, CSS3, SCSS, Tailwind, Material UI, Bootstrap
 
----
-
 UI / UX:
 
 Figma → Production-ready UI
 
 Design systems & reusable components
-
----
 
 Tools & Workflow:
 
